@@ -15,7 +15,7 @@
     "datatable-sorting-datetime-moment": "^1.0.1",
     "datatables.net": "^1.10.19",
     "jquery": "^3.4.1",
-    "lodash": "^4.17.19",
+    "lodash": "^4.17.21",
     "lodash.template": "^4.5.0",
     "popper.js": "^1.15.0",
     "startbootstrap-sb-admin-2": "^4.0.6",
